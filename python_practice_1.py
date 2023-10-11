@@ -9,6 +9,6 @@ def checkLeapYear(year):
         print("This is not a leap year")
 
 
-year = int(input("Enter Year to check weather it is a leap year or not."))
+year = int(input("Enter Year to check weather it is a leap year or not:"))
 
 checkLeapYear(year)
