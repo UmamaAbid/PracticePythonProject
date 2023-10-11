@@ -13,6 +13,7 @@ year = int(input("Enter Year to check weather it is a leap year or not:"))
 
 checkLeapYear(year)
 
+
 # CODE 
 
 sentence = "this is a python program"
@@ -42,5 +43,4 @@ def check_float_Number(x):
 
 
 print(check_float_Number(x))
-
 
