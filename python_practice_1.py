@@ -16,8 +16,8 @@ checkLeapYear(year)
 
 # CODE 
 
-sentence = "this is a python program"
-word = sentence.split()
+sentence1 = "this is a python program"
+word = sentence1.split()
 print(word)
 
 # We have to split this in ordered form like a is program python this
